@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21572509452",
+    "project_id": "glytch-15dcb",
+    "storage_bucket": "glytch-15dcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21572509452:android:700737abe17fdbdea43329",
+        "android_client_info": {
+          "package_name": "com.example.glytch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8GQlXM0GQd_jPrG0PUMDtbDShXt9gFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

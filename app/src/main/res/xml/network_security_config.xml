@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Allow cleartext HTTP only to your ESP32-CAM IP -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain>172.16.46.34</domain>
+    </domain-config>
+</network-security-config>
