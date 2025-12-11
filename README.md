@@ -28,9 +28,6 @@
 
 **Hardware**: ESP32 + MPU6050 + Piezo + LiPo wristband | ESP32-CAM | Android App (Kotlin)
 
-**First-prize winner** at multiple national hackathons 2025  
-Tested with 15+ ALS/Parkinson's patients — "Finally I can say NO to my family again"
-
 **One twist at a time, we give voices back.**
 
 <p align="center">
