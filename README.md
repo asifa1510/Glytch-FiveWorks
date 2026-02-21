@@ -30,7 +30,3 @@
 
 **One twist at a time, we give voices back.**
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/GLYTCH-Neuro-Assist?style=social"/>
-  <img src="https://img.shields.io/github/forks/yourusername/GLYTCH-Neuro-Assist?style=social"/>
-</p>
